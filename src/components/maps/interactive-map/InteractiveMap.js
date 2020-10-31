@@ -10,7 +10,7 @@ const defaultStyle = {
     fillColor: 'transparent',
     weight: 1,
     opacity: 1,
-    color: '#aaa',
+    color: '#F00', /* instead of original #aaa */
     dashArray: '3'
   },
   defaultHighlightStyle = {
