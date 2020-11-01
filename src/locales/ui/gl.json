@@ -28,7 +28,7 @@
     "close": "Pechar"
   },
   "gettingStarted": {
-    "title": "Comezando",
+    "title": "Introdución",
     "intro": "Atopa o país a partir do nome, capital ou bandeira amosados ao comezo da páxina.",
     "info": "Durante o xogo, podes ver a seguinte información ao comezo da páxina:",
     "list": {
@@ -37,9 +37,9 @@
         "0": "left:O número da pregunta actual e o número total de preguntas",
         "1": "left:O tempo restante:ion-android-stopwatch",
         "2": "middle:O nome do país, capital ou bandeira do país a atopar",
-        "3": "right:Pechar, para salir do xogo actual"
+        "3": "right:Pechar, para saír do xogo actual"
       }
     },
-    "doNotShowAgain": "No mostrar de nuevo"
+    "doNotShowAgain": "Non amosar de novo"
   }
 }
